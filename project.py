@@ -9,13 +9,13 @@ def user():
 def input_time(name):
     while True:
         try:
-            minutes = int(input(f"Enter A Timer {name} From (1-60 Minutes): "))
+            minutes = int(input(f"Enter A Timer {name} From (1-99999999 Minutes): "))
             if minutes <= 0 or minutes > 99999999:
                 raise ValueError
             print("Timer set for", minutes, "minutes.")
             return minutes
         except ValueError:
-            print("Invalid input. Type A Number From 1 To 60 ")
+            print("Invalid input. Type A Number From 1 To 99999999 ")
         
 
 
