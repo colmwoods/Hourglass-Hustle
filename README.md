@@ -1,34 +1,33 @@
-# Timer
+
     #### Video Demo:  https://www.youtube.com/watch?v=5sFDZZZb5mI
-    #### Description:
-    This project is a Python script that gets to know your name then implements a timer, this timer is very handy and has very quick acess as you can access through a click in the termainl of your code editor. It also has features such aswhen yo click enter on your keyboard it will do a lap and you can do this as many times as yu want.
+   
+# Minute-Maven
+If You Need A Timer That Counts In Minutes And Second Then The Python Program Is For You.
+With The Power Of The Terminal These Days It Is Used To Run Alot Of Applications Including This Python Program. 
 
-    This Python script is a simple timer application that allows the user to set a timer for a specified number of minutes. Here's a description of each part of the code:
 
-Imports: The script imports the sys and time modules. sys is used for handling standard input and output, and time is used for time-related functions.
+To Run This Program From The CLI, Terminal You Must Type In Python project.py
 
-user() Function: This function prompts the user to enter their name and returns the input after stripping any leading or trailing whitespace.
 
-input_time(name) Function: This function takes the user's name as input and prompts them to enter the duration of the timer in minutes. It validates the input to ensure it's a number between 1 and 60. If the input is invalid, it prompts the user again. Once valid input is received, it prints a message confirming the timer is set and returns the number of minutes.
+        Python project.py
 
-Timer(minutes) Function: This function takes the number of minutes as input and starts a timer for that duration. It continuously calculates the remaining time and updates the console output accordingly, showing the time remaining in the format mm:ss. Once the timer finishes, it prints a message indicating the time is up.
 
-main() Function: This function serves as the entry point of the script. It calls the user() function to get the user's name, then calls the input_time() function to get the duration of the timer, and finally calls the Timer() function to start the timer.
+Your Output:
+ ## How Many Characters Would You Like Your Password To Be: ##
+Here You Type In How Long You Want Your Passcode To Be. The Largest Password You Need To Generate Is Properly 64 Characters But Feel Free To Generate Larger Passcodes. For This Example We Will Use 8
 
-Script Execution: The script checks if it's being run as the main program using if __name__ == "__main__":. If it is, it calls the main() function to start the timer application.
-    #### Description:
-    This project is a Python script that gets to know your name then implements a timer, this timer is very handy and has very quick acess as you can access through a click in the termainl of your code editor. It also has features such aswhen yo click enter on your keyboard it will do a lap and you can do this as many times as yu want.
+ 
+         12
 
-    This Python script is a simple timer application that allows the user to set a timer for a specified number of minutes. Here's a description of each part of the code:
 
-Imports: The script imports the sys and time modules. sys is used for handling standard input and output, and time is used for time-related functions.
+Your Output:
+ ## Your New Password Is: 8A2?z1THifAh ##
+Congrats Its That Simple. Thats The Generated Password That You Can Use For Your Accounts. Very Secure And Safe Password
 
-user() Function: This function prompts the user to enter their name and returns the input after stripping any leading or trailing whitespace.
 
-input_time(name) Function: This function takes the user's name as input and prompts them to enter the duration of the timer in minutes. It validates the input to ensure it's a number between 1 and 60. If the input is invalid, it prompts the user again. Once valid input is received, it prints a message confirming the timer is set and returns the number of minutes.
 
-Timer(minutes) Function: This function takes the number of minutes as input and starts a timer for that duration. It continuously calculates the remaining time and updates the console output accordingly, showing the time remaining in the format mm:ss. Once the timer finishes, it prints a message indicating the time is up.
 
-main() Function: This function serves as the entry point of the script. It calls the user() function to get the user's name, then calls the input_time() function to get the duration of the timer, and finally calls the Timer() function to start the timer.
 
-Script Execution: The script checks if it's being run as the main program using if __name__ == "__main__":. If it is, it calls the main() function to start the timer application.
+
+
+
