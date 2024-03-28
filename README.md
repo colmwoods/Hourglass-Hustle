@@ -1,6 +1,3 @@
-
-    #### Video Demo:  https://www.youtube.com/watch?v=5sFDZZZb5mI
-   
 # Minute-Maven
 If You Need A Timer That Counts In Minutes And Second Then The Python Program Is For You. This Minute Maven Project Is Unique Compared To Others. As We Know With Timers These Days Their Count With 3 Terms/Units, Hours, Minutes And Seconds. But This One Is Different As You Can Time Yourself In Minutes And Seconds Compared To Figuring Out Long Minutes In Hours Which Can Be A Painful For People
 With The Power Of The Terminal These Days It Is Used To Run Alot Of Applications Including This Python Program. 
