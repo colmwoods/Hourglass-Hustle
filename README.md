@@ -28,9 +28,23 @@ After Typing In Your Name You Will Be Informed To Setup A Timer For How Long You
         5
 
 
+Your Output:
 ## Timer set for 5 minutes. ##
 ## Time Remaining John: 04:52 ##
+Its As Simple As That. Once It Finishes This Is What Will Be Printed Out.
 
+
+Your Output:
+## Times Up. Hope You Enjoy The Rest Of Your Day John 😊 ##
+And If You Want To Cancel At Anytime Press CTRL-C And This Is What Will Be Printed Out
+
+
+Your Output:
+## Cancelled To Put Another Time In Type (python project.py) Into The Terminal 😊 ##
+
+
+This Video Will Explain What The Python Is About And How It Functions 
+Video Demo:  https://www.youtube.com/watch?v=5sFDZZZb5mI
 
 
 
