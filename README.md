@@ -13,20 +13,23 @@ To Run This Program From The CLI, Terminal You Must Type In Python project.py
 
 
 Your Output:
- ## How Many Characters Would You Like Your Password To Be: ##
-Here You Type In How Long You Want Your Passcode To Be. The Largest Password You Need To Generate Is Properly 64 Characters But Feel Free To Generate Larger Passcodes. For This Example We Will Use 8
+ ## Whats Your Name:  ##
+Here You Type Your Name. This Way It Can Keep Mentioning Your Name WHile Talking To You In The Terminal. For This Example We Will Use John
 
  
-         12
+         John
 
 
 Your Output:
- ## Your New Password Is: 8A2?z1THifAh ##
-Congrats Its That Simple. Thats The Generated Password That You Can Use For Your Accounts. Very Secure And Safe Password
+ ## Enter A Timer John From (1-99999999 Minutes): ##
+After Typing In Your Name You Will Be Informed To Setup A Timer For How Long You Want The Timer To Last. For This Example We Will Do 5
 
 
+        5
 
 
+## Timer set for 5 minutes. ##
+## Time Remaining John: 04:52 ##
 
 
 
